@@ -1,7 +1,7 @@
 Dawid - baza
 Bartek - baza
 
-Kamil - CRAD
+Kamil - CRUD
 Artur - ORM
 Arek - Deploy
 Krzysiu - Dokumentacja
