@@ -1,9 +1,19 @@
-Dawid - baza
-Bartek - baza
+Dawid Morawiak - Baza danych
 
-Kamil - CRUD
+Bartek Lauks - Baza danych
+
+Kamil Widera- CRUD, utworzenie repozytorium
+
 Artur - ORM
-Arek - Deploy
-Krzysiu - Dokumentacja
-Damian (ja) - Konsolówka - front - wywoływanie metod
-Kuba - Dokumentacja
+
+Arkadiusz Czechowski - Deploy
+
+Damian Przysucha - User Interface
+
+Jakub Kasztelan - Dokumentacja
+
+Krzysztof Tomczyk - Dokumentacja
+
+Adrian Tuszyński - Rezerwacja Towaru
+
+Karolina Kozak - DTO
