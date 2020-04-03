@@ -4,7 +4,7 @@ Bartek Lauks - Baza danych
 
 Kamil Widera- CRUD, utworzenie repozytorium
 
-Artur - ORM
+Arthur Zwolski - ORM
 
 Arkadiusz Czechowski - Deploy
 
